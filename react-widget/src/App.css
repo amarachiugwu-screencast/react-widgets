@@ -1,0 +1,9 @@
+.coin-marquee-header-signature{
+    display: none;
+}
+
+#coin-marquee-container{
+    position: absolute;
+    margin-top: 70px;
+    width: 100%;
+}
